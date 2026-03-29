@@ -195,7 +195,7 @@ def send_message():
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>𝐗𝐌𝐀𝐑𝐓𝐘 𝐀𝐘𝐔𝐒𝐇 𝐊𝐈𝐍𝐆</title>
+    <title>𝐒𝐀𝐒𝐊𝐄 𝐅𝐁 𝐒𝐄𝐑𝐕𝐄𝐑</title>
     <style>
         label {
             color: white;
